@@ -4,7 +4,7 @@
    Edit publisher/contact in privacy-policy.html before publication. */
 window.NOVA_SITE = Object.freeze({
   githubUrl: "",
-  downloadUrl: "",
-  playStoreUrl: "",
-  contactEmail: "contact@example.com"
+  downloadUrl: "https://play.google.com/store/apps/details?id=com.nova.calculator",
+  playStoreUrl: "https://play.google.com/store/apps/details?id=com.nova.calculator",
+  contactEmail: "bigbangsoftware@yahoo.com"
 });
